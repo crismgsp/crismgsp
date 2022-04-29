@@ -6,7 +6,7 @@
  pois sempre gostei muito de lógica e tenho bastante curiosidade em como saber como as coisas funcionam nesta área. </p> <br>
 
 <p>🌱 No momento estou aprendendo sobre php mas as vezes volto a dar uma olhada sobre javascript, e preciso tirar mais tempo pra organizar meu github pois fica bem bagunçado pelos testes que faço nele pra testar e guardar o que estou aprendendo.</p>
-Pretendo ao adquirir um pouco mais de conhecimento, trabalhar como autônoma, prestando pequenos serviços para pegar experiência enquanto continuo estudando.<br>
+Ao adquirir um pouco mais de conhecimento, pretendo começar a trabalhar como autônoma, prestando pequenos serviços para pegar experiência enquanto continuo estudando.<br>
 
 <h2>Até o momento já aprendi sobre :</h2>
 
