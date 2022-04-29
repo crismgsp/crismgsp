@@ -15,6 +15,12 @@ CSS<br>
 Javascript: operadores lógicos, constantes, arrays, DOM, promises, CRUD, usar o Canvas pra fazer desenhos, e mais algumas coisinhas, na parte de front end.<br>
 PHP: operadores lógicos, constantes, arrays, comecei a aprender sobre programação orientada a objetos nesta linguagem e sei fazer CRUD usando este conceito-> conectando com o banco de dados, inserir informações nele e puxando as informações de lá para as páginas, através das funções criadas nas classes. Validar login, e ainda estou aprendendo mais, logo que aprender mais coisas coloco aqui. <br>
 
+<div>
+<a href="https://github.com/crismgsp">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crismgsp&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=crismgsp-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 
 
 
