@@ -5,7 +5,7 @@
  Parei de trabalhar nesta empresa em outubro de 2021, por motivos de mudança de estado. E comecei a estudar programação há 5 meses (dezembro de 2021),
  pois sempre gostei muito de lógica e tenho bastante curiosidade em como saber como as coisas funcionam nesta área. </p> <br>
 
-<p>🌱 No momento estou aprendendo sobre php mas as vezes volto a dar uma olhada sobre javascript, e preciso tirar mais tempo pra organizar meu github pois fica bem bagunçado pelos testes que faço nele pra testar e guardar o que estou aprendendo.</p>
+<p>🌱 No momento estou aprendendo sobre php mas as vezes volto a dar uma olhada sobre javascript.   Enquanto estudo estou tentando tirar mais tempo pra organizar meu github pois fica meio bagunçado por eu usar bastante ele pra testar e guardar o que estou aprendendo.</p>
 Ao adquirir um pouco mais de conhecimento, pretendo começar a trabalhar como autônoma, prestando pequenos serviços para pegar experiência enquanto continuo estudando.<br>
 
 <h2>Até o momento já aprendi sobre :</h2>
