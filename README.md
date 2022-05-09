@@ -3,10 +3,11 @@
 
  <p> Trabalhei por mais de 10 anos na área de mapeamento/geoprocessamento na Coordenadoria de Assistencia Tecnica Integral<br>
  Parei de trabalhar nesta empresa em outubro de 2021, por motivos de mudança de estado. E comecei a estudar programação há 5 meses (dezembro de 2021),
- pois sempre gostei muito de lógica e tenho bastante curiosidade em como saber como as coisas funcionam nesta área. </p> <br>
+ pois sempre gostei muito de lógica e tenho bastante curiosidade em saber como as coisas funcionam nesta área. </p> <br>
 
-<p>🌱 No momento estou aprendendo sobre php mas as vezes volto a dar uma olhada sobre javascript.   Enquanto estudo estou tentando tirar mais tempo pra organizar meu github pois fica meio bagunçado por eu usar bastante ele pra testar e guardar o que estou aprendendo.</p>
-Ao adquirir um pouco mais de conhecimento, pretendo começar a trabalhar como autônoma, prestando pequenos serviços para pegar experiência enquanto continuo estudando.<br>
+<p>🌱 No momento estou aprendendo sobre php mas as vezes volto a dar uma olhada sobre javascript.  </p>
+Ao adquirir um pouco mais de conhecimento, pretendo começar a trabalhar como autônoma, prestando pequenos serviços para pegar experiência enquanto continuo estudando.
+<br>
 
 <h2>Até o momento já aprendi sobre :</h2>
 
