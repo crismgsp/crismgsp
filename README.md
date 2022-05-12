@@ -13,7 +13,7 @@ Ao adquirir um pouco mais de conhecimento, pretendo começar a trabalhar como au
 <p>https://github.com/crismgsp/alurachalengeback3</p> <br>
 <p>https://github.com/crismgsp/alurageek</p> <br>
 
-<p> Estes dias estou focada em estudar mas até o dia 20 de maio irei reservar mais uma hora pra dar uma ajeitada na descrição do repositorio alurageek, pois acabei de ver que preciso detalhar ele de uma forma melhor</p>
+<p> Eles ainda tem melhorias a ser feitas... faltam alguns detalhes para acertar/terminar mas já demonstram sobre o que aprendi até o momento.</p> <br>
 
 
 
