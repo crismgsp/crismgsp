@@ -5,9 +5,17 @@
  Parei de trabalhar nesta empresa em outubro de 2021, por motivos de mudança de estado. E comecei a estudar programação há 5 meses (dezembro de 2021),
  pois sempre gostei muito de lógica e tenho bastante curiosidade em saber como as coisas funcionam nesta área. </p> <br>
 
-<p>🌱 No momento estou aprendendo sobre php mas as vezes volto a dar uma olhada sobre javascript.  </p>
+<p>No momento estou aprendendo sobre php mas as vezes volto a dar uma olhada sobre javascript.  </p>
 Ao adquirir um pouco mais de conhecimento, pretendo começar a trabalhar como autônoma, prestando pequenos serviços para pegar experiência enquanto continuo estudando.
 <br>
+
+<p>Meus repositórios em que aprendi mais e que demonstram o que aprendi são estes 2:</p> <br>
+<p>https://github.com/crismgsp/alurachalengeback3</p> <br>
+<p>https://github.com/crismgsp/alurageek</p> <br>
+
+<p> Estes dias estou focada em estudar mas até o dia 20 de maio irei reservar mais uma hora pra dar uma ajeitada na descrição do repositorio alurageek que criei em um chalenge bem legal que participei, e acabei de ver que preciso detalhar ele de uma forma melhor</p>
+
+
 
 <h2>Até o momento já aprendi sobre :</h2>
 
