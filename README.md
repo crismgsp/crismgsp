@@ -5,7 +5,7 @@
  Parei de trabalhar nesta empresa em outubro de 2021, por motivos de mudança de estado. E comecei a estudar programação há 5 meses (dezembro de 2021),
  pois sempre gostei muito de lógica e tenho bastante curiosidade em saber como as coisas funcionam nesta área. </p> <br>
 
-<p>No momento estou aprendendo sobre php mas as vezes volto a dar uma olhada sobre javascript.  </p>
+<p>No momento estou aprendendo sobre php (que é a linguagem que mais estudei até agora) mas as vezes volto a dar uma olhada em javascript.  </p>
 Ao adquirir um pouco mais de conhecimento, pretendo começar a trabalhar como autônoma, prestando pequenos serviços para pegar experiência enquanto continuo estudando.
 <br>
 
@@ -17,12 +17,12 @@ Ao adquirir um pouco mais de conhecimento, pretendo começar a trabalhar como au
 
 
 
-<h2>Até o momento já aprendi sobre :</h2>
+<h2>Até o momento já aprendi/estou aprendendo sobre :</h2>
 
 <strong>HTML</strong><br>
 <strong>CSS</strong><br>
 <strong>Javascript:</strong> operadores lógicos, constantes, arrays, DOM, promises, CRUD, usar o Canvas pra fazer desenhos, e mais algumas coisinhas, na parte de front end.<br>
-<strong>PHP:</strong> operadores lógicos, constantes, arrays, comecei a aprender sobre programação orientada a objetos nesta linguagem e sei fazer CRUD usando este conceito-> conectando com o banco de dados, inserir informações nele e puxando as informações de lá para as páginas, através das funções criadas nas classes. Validar login, e ainda estou aprendendo mais, logo que aprender mais coisas coloco aqui. <br>
+<strong>PHP:</strong> operadores lógicos, constantes, arrays, estou aprendendo sobre programação orientada a objetos nesta linguagem e sei fazer CRUD usando este conceito-> conectando com o banco de dados, inserindo informações nele e puxando as informações de lá para as páginas, através das funções criadas nas classes. Estou tentando colocar em prática o que aprendi no último mês sobre o padrão MVC, pois é importante para que as pessoas possam entender de forma mais fácil o que estou fazendo. Login, logout, aprendendo aos poucos sobre validações de dados,  usar algumas funções prontas do PHP... <br>
 
 <div>
 <a href="https://github.com/crismgsp">
