@@ -6,8 +6,9 @@
  pois sempre gostei muito de lógica e tenho bastante curiosidade em saber como as coisas funcionam nesta área. Também tenho interesse em trabalhos mais flexíveis
  e em oportunidades de trabalho remoto ou híbdrido.</p> <br>
 
-<p>No momento estou aprendendo sobre php (que é a linguagem que mais estudei até agora) mas as vezes volto a dar uma olhada em javascript.  </p>
+<p>No momento estou focando no php (que é a linguagem que mais estudei até agora).  </p>
 Ao adquirir um pouco mais de conhecimento, pretendo começar a trabalhar como autônoma, prestando pequenos serviços para pegar experiência enquanto continuo estudando.
+Em agosto de 2022 iniciei o CURSO SUPERIOR DE TECNOLOGIA EM DESENVOLVIMENTO BACK-END, da UNOPAR para ter uma formação mais focada nesta área, e aprender novos conceitos, e continuarei estudando por fora enquanto faço este curso, no tempo que sobrar.
 <br>
 
 <p>Meus repositórios em que aprendi mais e que demonstram o que aprendi são estes 2:</p> <br>
