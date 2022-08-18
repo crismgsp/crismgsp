@@ -16,7 +16,7 @@ Em agosto de 2022 iniciei o CURSO SUPERIOR DE TECNOLOGIA EM DESENVOLVIMENTO BACK
 baseada em um curso que fiz,  criei um outro repositório (abaixo) refatorando o código deste acima para deixa-lo em um padrão mais comumente
 utilizado -> MVC (antes nao tinha padrão, tinha organizado de um
 jeito que eu entendia), e tirando a parte visual que não mudou muito,  tiveram algumas pequenas melhorias além da organização dos arquivos:<br> <br>
-https://github.com/crismgsp/alurachalengeback3MVC <br>
+https://github.com/crismgsp/alurachalengeback3MVC <br> <br>
 
 
 <p>https://github.com/crismgsp/alurageek</p> <br>
