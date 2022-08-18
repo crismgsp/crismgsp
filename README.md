@@ -11,8 +11,14 @@ Ao adquirir um pouco mais de conhecimento, pretendo começar a trabalhar como au
 Em agosto de 2022 iniciei o CURSO SUPERIOR DE TECNOLOGIA EM DESENVOLVIMENTO BACK-END, da UNOPAR para ter uma formação mais focada nesta área, e aprender novos conceitos, e continuarei estudando por fora enquanto faço este curso, no tempo que sobrar.
 <br>
 
-<p>Meus repositórios em que aprendi mais e que demonstram o que aprendi são estes 2:</p> <br>
+<p>Meus repositórios em que aprendi mais e que demonstram o que aprendi são estes 3:</p> <br>
 <p>https://github.com/crismgsp/alurachalengeback3</p> <br>
+baseada em um curso que fiz,  criei um outro repositório (abaixo) refatorando o código deste acima para deixa-lo em um padrão mais comumente
+utilizado -> MVC (antes nao tinha padrão, tinha organizado de um
+jeito que eu entendia), e tirando a parte visual que não mudou muito,  tiveram algumas pequenas melhorias além da organização dos arquivos:<br>
+https://github.com/crismgsp/alurachalengeback3MVC
+
+
 <p>https://github.com/crismgsp/alurageek</p> <br>
 
 <p> Eles ainda tem melhorias a ser feitas... faltam alguns detalhes para acertar/terminar mas já demonstram sobre o que aprendi até o momento.</p> <br>
