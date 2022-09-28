@@ -11,6 +11,8 @@ Ao adquirir um pouco mais de conhecimento, pretendo começar a trabalhar como au
 Em agosto de 2022 iniciei o CURSO SUPERIOR DE TECNOLOGIA EM DESENVOLVIMENTO BACK-END, da UNOPAR para ter uma formação mais focada nesta área, e aprender novos conceitos, e continuarei estudando por fora enquanto faço este curso, no tempo que sobrar.
 <br>
 
+<p><strong>OBS: estou sumida do github pois estou focando em um projeto como freelancer, e alternando com este projeto tenho feito o curso de tecnologo</strong></p><br>
+
 <p>Meus repositórios em que aprendi mais e que demonstram o que aprendi são estes 3:</p> <br>
 <p>https://github.com/crismgsp/alurachalengeback3</p> <br>
 baseada em um curso que fiz,  criei um outro repositório (abaixo) refatorando o código deste acima para deixa-lo em um padrão mais comumente
