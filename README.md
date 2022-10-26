@@ -13,17 +13,24 @@ Em agosto de 2022 iniciei o CURSO SUPERIOR DE TECNOLOGIA EM DESENVOLVIMENTO BACK
 
 <p><strong>OBS: estou sumida do github pois estou focando em um projeto como freelancer, e alternando com este projeto tenho feito o curso de tecnologo</strong></p><br>
 
-<p>Meus repositórios em que aprendi mais e que demonstram o que aprendi são estes 3:</p> <br>
+<p>Meus repositórios em que aprendi mais e que demonstram o que aprendi são estes 4:</p> <br>
+
 <p>https://github.com/crismgsp/alurachalengeback3</p> <br>
+
 baseada em um curso que fiz,  criei um outro repositório (abaixo) refatorando o código deste acima para deixa-lo em um padrão mais comumente
 utilizado -> MVC (antes nao tinha padrão, tinha organizado de um
 jeito que eu entendia), e tirando a parte visual que não mudou muito,  tiveram algumas pequenas melhorias além da organização dos arquivos:<br> <br>
 https://github.com/crismgsp/alurachalengeback3MVC <br> <br>
 
 
+<p>https://github.com/crismgsp/chalengebackend4</p>   
+
+
+
+
 <p>https://github.com/crismgsp/alurageek</p> <br>
 
-<p> Eles ainda tem melhorias a ser feitas... faltam alguns detalhes para acertar/terminar mas já demonstram sobre o que aprendi até o momento.</p> <br>
+<p> faltaram alguns detalhes para acertar/terminar mas já demonstram um pouco sobre o que aprendi, em javascript.</p> <br>
 
 
 
