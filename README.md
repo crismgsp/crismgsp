@@ -7,9 +7,11 @@
  e em oportunidades de trabalho remoto ou híbdrido.</p> <br>
 
 <p>No momento estou focando no php (que é a linguagem que mais estudei até agora).  </p>
-Ao adquirir um pouco mais de conhecimento, pretendo começar a trabalhar como autônoma, prestando pequenos serviços para pegar experiência enquanto continuo estudando.
+No momento busco oportunidades como autônoma enquanto continuo estudando.
 Em agosto de 2022 iniciei o CURSO SUPERIOR DE TECNOLOGIA EM DESENVOLVIMENTO BACK-END, da UNOPAR para ter uma formação mais focada nesta área, e aprender novos conceitos, e continuarei estudando por fora enquanto faço este curso, no tempo que sobrar.
 <br>
+Para saber mais sobre os cursos que já fiz e sobre as experiências que já tive visite meu site pessoal: <br>
+http://crismgsp.com/portfolio/inicio/index <br>
 
 <p><strong>OBS: estou sumida do github pois estou focando em um projeto como freelancer, e alternando com este projeto tenho feito o curso de tecnologo</strong></p><br>
 
