@@ -1,7 +1,7 @@
 <h1>Olá, meu nome é Cristina  👋 </h1>
 
 
- <p> Trabalhei por mais de 10 anos na área de mapeamento/geoprocessamento na Coordenadoria de Assistencia Tecnica Integral<br>
+ <p> Trabalhei por mais de 10 anos na área de mapeamento/geoprocessamento na Coordenadoria de Assistência Técnica Integral - CATI :heart:<br>
  Parei de trabalhar nesta empresa em outubro de 2021, por motivos de mudança de estado. E comecei a estudar programação em dezembro de 2021,
  pois sempre gostei muito de lógica e tenho bastante curiosidade em saber como as coisas funcionam nesta área. Também tenho interesse em trabalhos mais flexíveis, no momento busco 
   oportunidades como autônoma ou trabalho remoto. </p> <br>
