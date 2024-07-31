@@ -4,16 +4,14 @@
  <p> Trabalhei por mais de 10 anos na área de mapeamento/geoprocessamento na Coordenadoria de Assistencia Tecnica Integral<br>
  Parei de trabalhar nesta empresa em outubro de 2021, por motivos de mudança de estado. E comecei a estudar programação em dezembro de 2021,
  pois sempre gostei muito de lógica e tenho bastante curiosidade em saber como as coisas funcionam nesta área. Também tenho interesse em trabalhos mais flexíveis
- e em oportunidades de trabalho remoto ou híbdrido.</p> <br>
+ e em oportunidades de trabalho remoto ou híbrido.</p> <br>
 
 <p>No momento estou focando no php (que é a linguagem que mais estudei até agora).  </p>
 No momento busco oportunidades como autônoma enquanto continuo estudando.
-Em agosto de 2022 iniciei o CURSO SUPERIOR DE TECNOLOGIA EM DESENVOLVIMENTO BACK-END, da UNOPAR para ter uma formação mais focada nesta área, e aprender novos conceitos, e continuarei estudando por fora enquanto faço este curso, no tempo que sobrar.
+Em junho de 2021 conclui o CURSO SUPERIOR DE TECNOLOGIA EM DESENVOLVIMENTO BACK-END, da UNOPAR para ter uma formação mais focada nesta área, e aprender novos conceitos, e continuo estudando por fora e fazendo projetos para aprendizado, alguns destes projetos coloquei aqui no github.
 <br> <br>
-Para saber mais sobre os cursos que já fiz e sobre as experiências que já tive visite meu site pessoal: <br>
+Para saber mais sobre os cursos e projetos que já fiz e sobre as experiências que já tive visite meu site pessoal: <br>
 https://crismgsp.com/portfolio/ <br> <br>
-
-<p><strong>OBS: estou sumida do github pois estou focando em um projeto como freelancer, e alternando com este projeto tenho feito o curso de tecnologo</strong></p><br>
 
 <p>Meus repositórios em que aprendi mais e que demonstram o que aprendi são estes 4:</p> <br>
 
@@ -38,7 +36,7 @@ jeito que eu entendia), e tirando a parte visual que não mudou muito,  tiveram 
 <strong> javascript, html, css </strong>
 <p>https://github.com/crismgsp/alurageek</p>  
 
-<p> faltaram alguns detalhes para acertar/terminar mas já demonstram um pouco sobre o que aprendi, em javascript.</p> <br>
+<p> faltaram alguns detalhes importantes para acertar/terminar mas deixei aqui para mostrar a evolução do aprendizado e dos projetos, em javascript.</p> <br>
 
 
 
