@@ -8,7 +8,7 @@
 
 <p>Durante meus estudos em programação, inclusive atualmente, a linguagem em que eu foco é o PHP :heart:  </p>
 
-Em junho de 2021 conclui o CURSO SUPERIOR DE TECNOLOGIA EM DESENVOLVIMENTO BACK-END, da UNOPAR para ter uma formação mais focada nesta área, e aprender novos conceitos, e continuo estudando por fora e fazendo projetos para aprendizado, alguns destes projetos coloquei aqui no github.
+Em junho de 2024 conclui o CURSO SUPERIOR DE TECNOLOGIA EM DESENVOLVIMENTO BACK-END, da UNOPAR para ter uma formação mais focada nesta área, e aprender novos conceitos, e continuo estudando por fora e fazendo projetos para aprendizado, alguns destes projetos coloquei aqui no github.
 <br> <br>
 Para saber mais sobre os cursos e projetos que já fiz e sobre as experiências que já tive visite meu site pessoal: <br>
 https://crismgsp.com/portfolio/ <br> <br>
